@@ -19,3 +19,12 @@
 .item-center{
     align-items: center;
 }
+
+.footer{
+    margin-top: 60px;
+}
+
+.footer span a{
+    color: rgb(83, 188, 27) !important;
+    text-decoration: none;
+}
